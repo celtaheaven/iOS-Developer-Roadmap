@@ -1,6 +1,5 @@
-# iOS Developer Roadmap
-## Text version
-Tapping on a link will take you to relevant materials.
+# Guilherme 'Heaven' Guimarães's iOS Developer Roadmap
+Forked from [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 
 - [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
     - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)

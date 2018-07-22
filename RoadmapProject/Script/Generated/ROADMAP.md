@@ -14,7 +14,7 @@ Forked from [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/i
                 - [x] [Toll-free bridging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Toll-free_bridging/RESOURCES.md)
                 - [ ] [`Runtime`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/RESOURCES.md)
                     - [x] [Method messaging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Method_messaging/RESOURCES.md)
-                    - [ ] [NSZombies and KVO implementation](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/NSZombies_and_KVO_implementation/RESOURCES.md)
+                    - [x] [NSZombies and KVO implementation](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/NSZombies_and_KVO_implementation/RESOURCES.md)
                     - [ ] [Swizzling](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Swizzling/RESOURCES.md)
             - [ ] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/RESOURCES.md)
                 - [ ] [Closures](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Closures/RESOURCES.md)

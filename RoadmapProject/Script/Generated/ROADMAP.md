@@ -54,7 +54,7 @@ Forked from [BohdanOrlov/iOS-Developer-Roadmap](https://github.com/BohdanOrlov/i
                     - [x] [UIApplicationDelegate](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/UIApplicationDelegate/RESOURCES.md)
                 - [x] [`UIViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/RESOURCES.md)
                     - [x] [`UITableViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UITableViews/RESOURCES.md)
-                    - [ x] [`UICollectionViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UICollectionViews/RESOURCES.md)
+                    - [x] [`UICollectionViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UICollectionViews/RESOURCES.md)
                 - [ ] [Layers](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layers/RESOURCES.md)
                 - [ ] [`Layout`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/RESOURCES.md)
                     - [ ] [`Frame-based`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/Frame-based/RESOURCES.md)
